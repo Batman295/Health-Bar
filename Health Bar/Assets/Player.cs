@@ -33,3 +33,5 @@ public class Player : MonoBehaviour
 		healthBar.SetHealth(currentHealth);
 	}
 }
+// gg
+// thank you brackeys
